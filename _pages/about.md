@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Ph.D. candidate in [Computer Science and Technology at the AI and Medical Imaging Laboratory](https://www.yanglinlab.com/), School of Engineering, Westlake University (Hangzhou, China), under the supervision of Prof. Lin Yang. Before that, I will obtain my B.Eng degree in Electronic Information from Hangzhou Institute for Advanced Study, University of Chinese Academy of Sciences (Hangzhou, China) in June 2025.I received my B.Sc. in Mathematics from the School of Mathematical Sciences, University of Electronic Science and Technology of China (Chengdu, China) in June 2022.  My research interests include 
+I am a Ph.D. candidate in [Computer Science and Technology at the AI and Medical Imaging Laboratory](https://www.yanglinlab.com/), School of [Engineering, Westlake University](https://www.westlake.edu.cn/) (Hangzhou, China), under the supervision of Prof. [Lin Yang](https://scholar.google.com/citations?hl=zh-CN&user=fskm0zEAAAAJ). Before that, I will obtain my B.Eng degree in Electronic Information from Hangzhou Institute for Advanced Study, [University of Chinese Academy of Sciences](https://www.ucas.edu.cn/) (Hangzhou, China) in June 2025.I received my B.Sc. in Mathematics from the School of Mathematical Sciences, [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/) (Chengdu, China) in June 2022. 
 
 My research interest includes medical image analysis, computer vision, and medical multimodal large models.
 

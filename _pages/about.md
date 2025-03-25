@@ -31,17 +31,15 @@ My research interest includes medical image analysis, computer vision, and medic
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MIA</div><img src='images/M4_framework.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[M4: Multi-Proxy Multi-Gate Mixture of Experts Network for Multiple Instance Learning in Histopathology Image Analysis]
+**M4: Multi-Proxy Multi-Gate Mixture of Experts Network for Multiple Instance Learning in Histopathology Image Analysis**
 
 Junyu Li, **Yezhang**(Co-first author), Wen Shu, et al.
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**Paper Project**]([https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC](https://github.com/Bigyehahaha/M4)) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Propose an adapted architecture of Multi-gate Mixture-of-experts with Multi-proxy for Multiple instance learning.
+- Simultaneous prediction of multiple genetic mutations from WSIs. 
 </div>
 </div>
-
-- [Demo](https://github.com), A, B, C, **CVPR 2020**
-
 # 🎖 Honors and Awards
 - *2023.6* Model Student, UCAS.
 - *2023.6* Outstanding Student Leader, UCAS.
@@ -51,8 +49,8 @@ Junyu Li, **Yezhang**(Co-first author), Wen Shu, et al.
 - *2018.09 - 2022.06*, Bachelor of Science in Information and Computing Science, University of Electronic Science and Technology of China, Chengdu, China.
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- 
 
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2024.11 - 2025.01*, DiPath,  Image Algorithm Engineer，Hangzhou, China.

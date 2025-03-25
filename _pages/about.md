@@ -35,14 +35,14 @@ My research interest includes medical image analysis, computer vision, and medic
 
 Junyu Li, **Yezhang**(Co-first author), Wen Shu, et al.
 
-[**Paper Project**]([https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC](https://github.com/Bigyehahaha/M4)) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Paper Project**](https://github.com/Bigyehahaha/M4) 
 - Propose an adapted architecture of Multi-gate Mixture-of-experts with Multi-proxy for Multiple instance learning.
 - Simultaneous prediction of multiple genetic mutations from WSIs. 
 </div>
 </div>
 # 🎖 Honors and Awards
-- *2023.6* Model Student, UCAS.
-- *2023.6* Outstanding Student Leader, UCAS.
+- *2023.06* Model Student, UCAS.
+- *2023.06* Outstanding Student Leader, UCAS.
 
 # 📖 Educations
 - *2022.09 - (now)*, Master of Engineering in Artificial Intelligence, Hangzhou Institute for Advanced Study，University of Chinese Academy of Sciences，Hangzhou, China. 

@@ -23,16 +23,17 @@ My research interest includes medical image analysis, computer vision, and medic
 
 
 # 🔥 News
-- *2024.12*: &nbsp;🎉🎉 I am pleased to announce my successful admission to the College of Engineering at Westlake University. 
+- *2024.12*: &nbsp;🎉🎉 I am pleased to announce my successful admission to the College of Engineering at Westlake University.
+- *2025.03*: &nbsp;🎉🎉 One paper was accepted by Medical Image Analysis(IF=10.7).
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MIA</div><img src='images/M4_framework.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[M4: Multi-Proxy Multi-Gate Mixture of Experts Network for Multiple Instance Learning in Histopathology Image Analysis]
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+Junyu Li, **Yezhang**, Wen Shu, et al.
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
